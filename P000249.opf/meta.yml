@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000249
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། ཨོ་རྒྱན་མ་ཧཱ་གུ་རུའི་གསོལ་འདེབས་ལེའུ་བརྒྱད་པ་འདོད་དོན་མྱུར་འགྲུབ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-07
   layers:
   - book_title
   - author
   - yigchung
+  id: SHE-DKR-07
 web_metadata:
   title:
     en: Swift Fulfillment of Wishes:Eight Chapters of Supplication to Guru Rinpoche
